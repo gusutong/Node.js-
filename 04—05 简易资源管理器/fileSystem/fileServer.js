@@ -2,6 +2,7 @@ const http = require("http");
 const fs = require("fs");
 const path = require("path");
 const url = require("url");
+debugger;
 
 http.createServer(function (req, res) {
     var urlObj = url.parse(req.url, true);
