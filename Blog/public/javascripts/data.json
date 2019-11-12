@@ -1,0 +1,22 @@
+{
+    "users": [
+        {
+            "username": "zhangsan",
+            "password": "111111"
+        }
+    ],
+    "chapterList": [
+        {
+            "title": "这是第一篇文章",
+            "views": 111
+        },
+        {
+            "title": "这是第二篇文章",
+            "views": 222
+        },
+        {
+            "title": "这是第三篇文章",
+            "views": 333
+        }
+    ]
+}
